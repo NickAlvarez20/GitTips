@@ -1,4 +1,4 @@
-# Git Tips
+# ✍️Git Tips
 
 This repository is a collection of resouces to improve developer's Git etiquette. Whether you are in a team or solo, this repository can help you go from beginner to professional in a few short reads.
 
